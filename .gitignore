@@ -1,1 +1,7 @@
+# SageMath parsed files
+*.sage.py
+
+# Environments
 Pipfile
+MLPROJECT
+.artifacts
